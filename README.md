@@ -26,7 +26,6 @@ etc...
 I have used the following books to deepen my understanding of machine learning:
 
 - 「図解即戦力　機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書」株式会社アイデミー (著), 山口 達輝 (著), 松田 洋之 (著) [link here](https://www.kinokuniya.co.jp/f/dsg-01-9784297106409)
-
 -「ITエンジニアのための機械学習理論入門」中井悦司（著） [link here](https://gihyo.jp/book/2021/978-4-297-12233-1)
 
 
