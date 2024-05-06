@@ -1,4 +1,4 @@
-# ML_Self_Study
+# Self-Directed Study of Machine Learning
 
  ![handwritten](https://github.com/HanaHirose/ML_Self_Study/blob/main/ML_Regression_handwriten_classification/Image/handwritten.png)
 
