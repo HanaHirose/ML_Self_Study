@@ -1,4 +1,4 @@
-# Machine Learning: Logistic Regression
+# Logistic Regression
 
 ## Handwritten Character Classification
 
