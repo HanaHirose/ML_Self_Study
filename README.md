@@ -5,9 +5,13 @@
 Welcome to ML_Self_Study! This repository is dedicated to my self-directed learning in machine learning. Here, I explore and implement various ML algorithms to deepen my understanding and enhance my skills. I will be continuously updating this repository with new implementations as I progress in my studies.
 
 
-## Algorithms
+## Consepts
 
-- Regression
+- Regression (Linear, Logistic)
+- Regularization
+- LASSO ($L_1& norm)
+- K-fold cross-valid method
+- Hyperparameter tuning
 
 etc...
 
