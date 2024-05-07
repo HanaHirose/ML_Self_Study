@@ -18,7 +18,7 @@ Ten numeric predictive values (age, sex, bmi etc..) are features to predict diab
 ![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/dataset.png)
 
 ## Optimization using K-fold cross-validation method
-検証誤差 Validation Error　$E_\mathrm{valid}(\lambda)$　is expressed as cross-validation score (cv_score) in this K-fold cross-validation method.
+検証誤差 Validation Error　$E_v$　is expressed as cross-validation score (cv_score) in this K-fold cross-validation method.
 **Optimized $\lambda$: 1.1623**
 
 ![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/optimize_alpha.png)
