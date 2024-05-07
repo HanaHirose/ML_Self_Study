@@ -35,7 +35,7 @@ You can see that some of the coefficient (age, s2, s4)  actually does not have a
 ## Results
 Because all the dataset was used for optimizing the LASSO model, you cannot simply evaluate how good this model is.
 
-To compare this model to other models, like linear regression for example, I did more in [Compare_Linear_LASSO_Diabetes](https://github.com/HanaHirose/ML_Self_Study/tree/main/Compare_Linear_LASSO_Diabetes).
+To compare this model to other models, like linear regression for example, I did more in the next project: [Compare_Linear_LASSO_Diabetes](https://github.com/HanaHirose/ML_Self_Study/tree/main/Compare_Linear_LASSO_Diabetes).
 
 ![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/scatter.png)
 
