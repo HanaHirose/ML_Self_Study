@@ -1,13 +1,13 @@
 # Analysis of Comparative Performance between LASSO and Linear Regression for Diabetes Dataset
 
 
-**Comparison between two models**
+## Comparison between two models
 - LASSO with K-fold cross-validation method
 - Simple linear regeression
 
 Used 80 % of datasets as training data and 20 % as test data.
 
-Compared $R^2$ (coefficient of determination) between the two models.
+**Compared $R^2$ (coefficient of determination) between the two models**
 - LASSO: 0.45605
 - Linear regression: 0.45260
 
