@@ -5,7 +5,7 @@
 Welcome to ML_Self_Study! This repository is dedicated to my self-directed learning in machine learning. Here, I explore and implement various ML algorithms to deepen my understanding and enhance my skills. I will be continuously updating this repository with new implementations as I progress in my studies.
 
 
-## Consepts
+## Concepts
 
 - Regression (Linear, Logistic)
 - Regularization
