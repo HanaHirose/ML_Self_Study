@@ -19,7 +19,7 @@ This may mean that this dataset is not so complex so that simple linear regressi
 
 
 
-![image](/Images/compare_lesso_linear.png)
+![image](Images/compare_lesso_linear.png)
 
 
 ## Dataset info
