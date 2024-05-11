@@ -9,7 +9,7 @@ Welcome to ML_Self_Study! This repository is dedicated to my self-directed learn
 
 - Regression (Linear, Logistic)
 - Regularization
-- LASSO ($L_1& norm)
+- LASSO ($L_1$ norm)
 - K-fold cross-valid method
 - Hyperparameter tuning
 
