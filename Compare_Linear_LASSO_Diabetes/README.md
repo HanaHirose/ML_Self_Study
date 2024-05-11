@@ -19,7 +19,7 @@ This may mean that this dataset is not so complex so that simple linear regressi
 
 
 
-![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/Compare_Linear_LASSO_Diabetes/Images/compare_lesso_linear.png)
+![image](/Images/compare_lesso_linear.png)
 
 
 ## Dataset info
