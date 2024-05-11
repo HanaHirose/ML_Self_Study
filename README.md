@@ -33,5 +33,7 @@ I have used the following books to deepen my understanding of machine learning:
 
 - 「ITエンジニアのための機械学習理論入門」中井悦司（著） [link here](https://gihyo.jp/book/2021/978-4-297-12233-1)
 
+- 「ゼロから作るDeep Learning　ーPythonで学ぶディープラーニングの理論と実装」斎藤 康毅（著）オライリージャパン　 [link here](https://www.oreilly.co.jp/books/9784873117584/)
+
 
 
