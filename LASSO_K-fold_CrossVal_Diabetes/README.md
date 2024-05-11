@@ -15,29 +15,29 @@ Determine $𝜆$ Using K-fold Cross-Validation Methods.
 
 ## Features and target
 Ten numeric predictive values (age, sex, bmi etc..) are features to predict diabetes predictability.
-![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/dataset.png)
+![image](Images/dataset.png)
 
 ## Optimization using K-fold cross-validation method
 検証誤差 Validation Error $E_{valid}(\lambda)$ is expressed as cross-validation score (cv_score) in this K-fold cross-validation method.
 
 **Optimized $\lambda$: 1.1623**
 
-![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/optimize_alpha.png)
+![image](Images/optimize_alpha.png)
 
 
 ## Optimized LASSO model
 Using the best $\lambda$, now you can have the optimized LASSO model loasso_opt. After fitting with the model, you get coefficients as follow.
 You can see that some of the coefficient (age, s2, s4)  actually does not have an impact on the prediction.
 
-![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/coefficient.png)
+![image](Images/coefficient.png)
 
 
 ## Results
 Because all the dataset was used for optimizing the LASSO model, you cannot simply evaluate how good this model is.
 
-To compare this model to other models, like linear regression for example, I did more in the next project: [Compare_Linear_LASSO_Diabetes](https://github.com/HanaHirose/ML_Self_Study/tree/main/Compare_Linear_LASSO_Diabetes).
+To compare this model to other models, like linear regression for example, I did more in the next project: [Compare_Linear_LASSO_Diabetes](../Compare_Linear_LASSO_Diabetes).
 
-![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LASSO_K-fold_CrossVal_Diabetes/Images/scatter.png)
+![image](Images/scatter.png)
 
 
 

@@ -8,7 +8,7 @@ Used 80 % of datasets as training data and 20 % as test data.
 
 Coefficient of determination was 0.45 where 1 means perfect fitting.
 
-![image](https://github.com/HanaHirose/ML_Self_Study/blob/main/LinearRegression_Diabetes/Images/Diabetes_image.png)
+![image](Images/Diabetes_image.png)
 
 Target: a quantitative measure of disease progression one year after baseline
 
