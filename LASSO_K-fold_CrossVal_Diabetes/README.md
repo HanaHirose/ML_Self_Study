@@ -9,7 +9,7 @@ Analyze the dataset of diabetes using LASSO Regression where it adds a regulariz
 
 The key aspect of LASSO is its ability to produce sparse solutions. Many of the regression coefficients are exactly zero.
 
-The L1 penalty is the sum of the absolute values of the coefficients, mathematically expressed as $λ ∑ | β_j |$, where $𝛽_j$are the coefficients and $𝜆$ is a tuning parameter that controls the strength of the penalty.
+The L1 penalty is the sum of the absolute values of the coefficients, mathematically expressed as $λ ∑ | β_j |$, where $𝛽_j$ are the coefficients and $𝜆$ is a tuning parameter that controls the strength of the penalty.
 
 Determine $𝜆$ Using K-fold Cross-Validation Methods.
 
