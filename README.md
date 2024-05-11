@@ -1,6 +1,6 @@
 # Self-Directed Study of Machine Learning
 
- ![handwritten](https://github.com/HanaHirose/ML_Self_Study/blob/main/LogisticRegression_handwriten_classification/Image/handwritten.png)
+ ![handwritten](LogisticRegression_handwriten_classification/Image/handwritten.png)
 
 Welcome to ML_Self_Study! This repository is dedicated to my self-directed learning in machine learning. Here, I explore and implement various ML algorithms to deepen my understanding and enhance my skills. I will be continuously updating this repository with new implementations as I progress in my studies.
 
