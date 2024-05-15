@@ -33,6 +33,10 @@ I have used the following books to deepen my understanding of machine learning:
 
 - 「ゼロから作るDeep Learning　ーPythonで学ぶディープラーニングの理論と実装」斎藤 康毅（著）オライリージャパン　 [link here](https://www.oreilly.co.jp/books/9784873117584/)
 
+- 「パターン認識と機械学習　ベイズ論理による統計的予測　上」 C.M.ビショップ（著）　元田　浩 / 栗田　多喜夫 / 樋口　知之 / 松本　裕治 / 村田　昇 （監訳）　[link here](https://www.maruzen-publishing.co.jp/item/b294524.html)
+
+- 「パターン認識と機械学習　ベイズ論理による統計的予測　下」 C.M.ビショップ（著）　元田　浩 / 栗田　多喜夫 / 樋口　知之 / 松本　裕治 / 村田　昇 （監訳）　[link here](https://www.maruzen-publishing.co.jp/item/b294551.html)
+
 **Others**
 
 - 「図解即戦力　機械学習&ディープラーニングのしくみと技術がこれ1冊でしっかりわかる教科書」株式会社アイデミー (著), 山口 達輝 (著), 松田 洋之 (著)  [link here](https://www.kinokuniya.co.jp/f/dsg-01-9784297106409)
