@@ -10,7 +10,7 @@ You can create various functions from the Kernel functions.
 ![image](images/RandomFunc_Kernel.png)
 
 ## Gaussian Process Regression
-The dataset is created from $ \sin(2 \pi x)$ with Gaussian error.
+The dataset is created from $ \sin\(2 \pi x\)$ with Gaussian error.
 Create a model by Gaussian Process Regression. The model can predict the target value with showing how much it has confident for the prediction as shown with the colored field in the graph below.
 ![image](images/Gaussian_Process_Regression.png)
 
